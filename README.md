@@ -8,9 +8,7 @@ This project is an attempt to digitize experiments designed to test a psychologi
 Pygame in Python.
 
 ### Getting Started: 
-#### Prerequisites (work in progress)
-how to install and run software locally (npm)
-#### Installation (work in progress)
+Requires [python](https://www.python.org/downloads/) and [pygame](https://www.pygame.org/download.shtml). Run the following: `py main.py`
 
 ### Usage: (work in progress)
 how to use the project
